@@ -1,0 +1,5 @@
+student name= Sravani
+course= bca
+roll no = 33
+college = Aditya degree college rajhumdry
+suc = 2346240460
